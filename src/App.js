@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import uuid from 'uuid';
 import $ from 'jquery';
-import './App.css';
 import Projects from './components/Projects';
 import AddProject from './components/AddProject';
 import Todos from './components/Todos'
